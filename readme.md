@@ -9,7 +9,7 @@ no fitness function and no goal state. Whoever manages to eat and reproduce pass
 their genes. Everything you see is a consequence of that.
 
 ```
-open abyssal-garden.html
+open [abyssal-garden.html](abyssal-garden.html)
 ```
 
 That's the whole install. It runs offline, from `file://`, on anything with a canvas.
